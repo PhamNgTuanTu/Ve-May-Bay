@@ -1,11 +1,10 @@
 ![alt text](./images/header.svg)
 
-<h3 align="center">Web Developer</h3>
+<h3 align="center">Frontend Developer</h3>
 
 <p align="center">
   <em>
-    I am a self-taught <b>programmer</b>. Has a great fondness for <b>code</b> <img src="./images/Developer.gif" width="30px">
-    <br>enjoys learning <b>new technologies</b> <img src="./images/Designer.gif" width="36px"> and discovering the <b>essence of problems.</b>
+    I love exploring new technologies. <b>In addition</b>, need to incorporate time to learn and absorb new technologies.
   </em> 
   <br>
   <img src="./images/dog_2.gif" width="50" /> <b><i align="center">Thought : "Life is full of choices…choose wisely!”</i></b> <img src="./images/dog_1.gif" width="50" />
@@ -17,9 +16,9 @@
 
 ### <img src="./images/stats.gif" width="30px"> ***About Me***
 
-* 🌱 I'm learning ***Javascript*** and ***ReactJS*** 😍
-* 🏆 I usually work with ***PHP language***
-* 📫 Ask me anything you want [**here**](https://github.com/PhamNgTuanTu), If I were alive, I would reply within seconds 😉
+* 🌱 I'm a web developer and I like this job a lot. 😍
+* 🌱 I want to learn and have a chance to develop myself. 😍
+* 📫 Feel free to contact me when you need, [**here**](https://www.facebook.com/phamngtuantu/), I would reply within seconds 😉
 * 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
@@ -29,7 +28,6 @@
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![SCSS](https://img.shields.io/badge/-SCSS-05122A?style=flat&logo=scss)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
 ![jQuery](https://img.shields.io/badge/-jQuery-05122A?style=flat&logo=jquery)&nbsp;

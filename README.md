@@ -70,7 +70,7 @@
 <details>
   <summary>⚡ Recent GitHub Activity</summary>
   <br>
-   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=nguyenary&custom_title=nguyenary's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
+   <img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=phamngtuantu&custom_title=phamngtuantu's%20Contribution%20Graph&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" />
   <br/>
 </details>
 

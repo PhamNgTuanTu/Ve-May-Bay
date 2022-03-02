@@ -54,6 +54,8 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-05122A?style=flat&logo=telegram)&nbsp;
 ![Skype](https://img.shields.io/badge/-Skype-05122A?style=flat&logo=skype)&nbsp;
 ![Gmail](https://img.shields.io/badge/-Gmail-05122A?style=flat&logo=gmail)&nbsp;
+![Jira](https://img.shields.io/badge/-Jira-05122A?style=flat&logo=jira)&nbsp;
+
 
 <br>
 

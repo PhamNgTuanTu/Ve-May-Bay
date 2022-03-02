@@ -1,0 +1,37 @@
+.group-btn-loc-hang-bay {
+    display: flex;
+    justify-content: space-between;
+}
+
+.title-hangcho-bambo:before {
+    content: "\F0FA4";
+}
+.title-hangcho {
+    color: #556ee6 !important;
+}
+.title-hangcho-bambo:after {
+    content: " Hạng chỗ - Bambo airlines";
+}
+.title-hangcho-vietnam:after {
+    content: " Hạng chỗ - Vietnam airlines";
+}
+.title-hangcho-vietject:after {
+    content: " Hạng chỗ - Vietject airlines";
+}
+.dropdown-menu {
+    box-shadow: 3px 3px #dcdde2;
+    border: 1px solid #dcdde2;
+}
+.dropdown-custom-i  {
+    position: relative;
+}
+.dropdown-custom-i i {
+    position: absolute;
+    top: -15px;
+    right: -10px;
+    font-size: 18px;
+}
+.btn-drop-hang-cho .dropdown-toggle {
+    width: 2.5em;
+    height: 2em;
+}

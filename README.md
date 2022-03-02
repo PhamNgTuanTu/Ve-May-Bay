@@ -19,7 +19,6 @@
 * 🌱 I'm a web developer and I like this job a lot. 😍
 * 🌱 I want to learn and have a chance to develop myself. 😍
 * 📫 Feel free to contact me when you need, [**here**](https://www.facebook.com/phamngtuantu/), I would reply within seconds 😉
-* 😄 Fun fact: I am always trying to learn new things. After I sleep, I will forget everything
 
 <br>
 
